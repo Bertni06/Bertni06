@@ -1,0 +1,17 @@
+
+    print("ehhh karen, w ai kong mikkia.")
+    nama_cewek = karen("").
+
+    print(f"{karen}, ya selama w ketemu lu di tempat kerja (BCA) w gtw knp kek tertarik ja sama lu...")
+    print("dan ya mungkin w dh dengar dari kawan w, mungkin lu juga dh tau siapa,w cuman ai kong eee wanna be my gf? (jawab: ya/tidak)")
+
+    jawaban = input("ya").lower()
+
+    if jawaban == "ya":
+        print(f"Eeee nothing i can say selain blg thanks ai pien w e gf liau😄. ya w akan selalu coba lebih dewasa karna ya w merasa w belum yg dewasa' bgt ")
+    elif jawaban == "tidak":
+        print(f"its ok,itu u e hak sihh,but hopefully w lang tetap e kek biasa gini")
+    else:
+        print("Hmm, biokin u sio' senk ja.")
+
+#
