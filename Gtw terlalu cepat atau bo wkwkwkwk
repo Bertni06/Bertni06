@@ -1,0 +1,18 @@
+#
+
+def Something i want to say():
+    print("eee karen,w ai kong ini sih dari ya bs dibilang lumayan lama liau mungkin 1bulan sebelum w lang chat di ig atau WA w pun cai liau sih dari temen' lu dikampus e")
+    nama_cewek = "Karennn"  
+    print(f"{nama_cewek}, emcai terlalu cepat atau apa wkwkwk...")
+    print("eeee w sebenarnya suka sama lu karna w liat lu orangnya ya baik sopan,ai pien w e gf bo wkwkwk(jawab: ya/tidak)")
+
+    jawaban = "ya"  
+
+    if jawaban == "ya":
+        print(f"ehhh w cuman e kong thanks y ai terima w karna ya yang w tau u kebanyakan tolak lang hehehe, {nama_cewek}. ya w harap dan berusaha biar w Lang e ke yg lebi serius")
+    elif jawaban == "tidak":
+        print(f"biokin e,tpi {nama_cewek}. w harap w lang e tetap co peng iu bo asing wkwkwk")
+    else:
+        print("Hmm, biokin,u sio' senk ja wkwkwk")
+
+#
